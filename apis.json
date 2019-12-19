@@ -1,0 +1,49 @@
+{
+    "name": "iKnode",
+    "description": "Home Features Pricing Docs Blog Login The most powerful Backend Cloud Platform! Sign up! Create in your browser Deploy to the cloud Execute from ???",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/66-iknode.jpg",
+    "tags": [
+        "api provider",
+        "baas",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/iknode\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "iKnode",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/66-iknode.jpg",
+            "humanURL": "http:\/\/iknode.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/iknode-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/iknode.io\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/iknode.io\/atom.xml"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/iknode"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/iknode.io\/"
+        }
+    ]
+}
